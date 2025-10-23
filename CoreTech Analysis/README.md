@@ -1,7 +1,7 @@
 
 # CoreTech Road Accident Analysis
 
-<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/20f05cb4-7587-4bd6-bc81-c75bc6fc283b" />
+<img width="500" height="183" alt="image" src="https://github.com/user-attachments/assets/20f05cb4-7587-4bd6-bc81-c75bc6fc283b" />
 
 ### Table of contents
 - [Project Overview](#project-Overview)
