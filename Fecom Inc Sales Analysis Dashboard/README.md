@@ -1,6 +1,6 @@
 # Fecom INC. SALES ANALYSIS
 
-<img width="286" height="176" alt="image" src="https://github.com/user-attachments/assets/93ce10b9-3323-4657-8323-dd54b02fa461" />
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/93ce10b9-3323-4657-8323-dd54b02fa461" />
 
 ### Table of contents
 - [Project Overview](#project-Overview)
